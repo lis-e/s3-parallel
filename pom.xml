@@ -9,7 +9,7 @@
     <version>0.0.2-SNAPSHOT</version>
     <description>s3-parallel lib</description>
     <properties>
-        <aws.version>1.10.24</aws.version>
+        <aws.version>1.11.269</aws.version>
         <jackson.version>2.3.0</jackson.version>
     </properties>
     <dependencies>
